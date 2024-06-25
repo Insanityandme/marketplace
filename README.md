@@ -1,6 +1,8 @@
-# Blockat clone
-A marketplace/blocket clone student project
+<div align="center">
+	
+# Plocket - Blocket Clone
 
+[Install](#install) • [Animations](#animations) • [Screenshots](#screenshots)
 # Frontend (Plocket)
 
 Plocket is a web application that allows users to buy and sell a wide range of products. The design of the application is heavily inspired by blocket.se (it’s similar to Facebook's marketplace but for Swedish users). The application is separated into two parts, a frontend and a backend.
