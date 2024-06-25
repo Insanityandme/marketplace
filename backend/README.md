@@ -15,6 +15,10 @@ Railway is used to host our database, which provides a containerized environment
   - POSTGRES_PASSWORD
   - IMAGE_UPLOAD_DIRECTORY
   - IMAGE_HOST_URL
+- (Optional .env variables):
+    - MAX_UPLOAD_SIZE_BYTES=10000000
+    - SPRING_PROFILES_ACTIVE=production
+    - NIXPACKS_JDK_VERSION=21
 - Docker for running tests (OPTIONAL): [Docker](https://www.docker.com/)
   
 ## Installation (TERMINAL)
