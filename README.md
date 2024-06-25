@@ -29,7 +29,9 @@ Features:
 - Search for products using categories, price, condition, and name
 - See order history
 
-# Frontend
+# Installation
+
+## Frontend
 
 ## Prequisities
 
