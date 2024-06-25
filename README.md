@@ -85,6 +85,9 @@ It should look something like this: ![image](https://github.com/Insanityandme/ma
 It should look something like this: ![image](https://github.com/Insanityandme/marketplace-backend/assets/1380257/5d74f24c-6d7e-444f-9090-50d189b0c7eb)
 
 ---
+# Screenshots
+
+---
 # Contact
 You are welcome to contact me at bengtegardbook@gmail.com if you have any questions on how to setup this environment.
 There might be some mistakes in our installation guide and I apologize for that if that's the case.
