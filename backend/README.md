@@ -1,4 +1,4 @@
-# marketplace-backend
+# Backend 
 
 Marketplace-backend is the backend of our application. It is a web application written in Java using the Spring Boot framework. The backend is a RESTful API which utilizes different HTTP methods for communication. Server sent events are also used, for sending messages from the backend to the frontend. 
 
