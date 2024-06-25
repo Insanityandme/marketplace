@@ -2,7 +2,7 @@
 	
 # Plocket
 
-[Introduction](#introduction) • [Frontend](#frontend) • [Backend](#backend) • [Screenshots](#screenshots) • [Contact](#contact)
+[Introduction](#introduction) • [Backend](#backend) • [Frontend](#frontend) • [Screenshots](#screenshots) • [Contact](#contact)
 </div>
 
 # Introduction
@@ -18,26 +18,6 @@ Features:
 - Buy products (without payment logic implemented)
 - Search for products using categories, price, condition, and name
 - See order history
-
-# Frontend
-
-This is our frontend, a web application written in NextJS. 
-
-## Prequisities
-
-NodeJS: [NodeJS](https://nodejs.org/en)
-
-Backend: This will not be functional if you haven't done the instructions for the [backend](#backend)
-
-## Installation
-
-0. `git clone https://github.com/Insanityandme/marketplace-frontend.git`
-1. `cd marketplace-frontend`
-2. `npm install`
-3. `npm run dev`
-4. Your server should now be running at http://localhost:3000 and should look something like this:
-
-![image](https://github.com/Insanityandme/blocket-clone/assets/1380257/db4d2f92-1072-47bb-a748-d5d6821db985)
 
 # Backend 
 
@@ -83,6 +63,26 @@ It should look something like this: ![image](https://github.com/Insanityandme/ma
 3. Press the play button to run the application
 
 It should look something like this: ![image](https://github.com/Insanityandme/marketplace-backend/assets/1380257/5d74f24c-6d7e-444f-9090-50d189b0c7eb)
+
+# Frontend
+
+This is our frontend, a web application written in NextJS. 
+
+## Prequisities
+
+NodeJS: [NodeJS](https://nodejs.org/en)
+
+Backend: This will not be functional if you haven't done the instructions for the [backend](#backend)
+
+## Installation
+
+0. `git clone https://github.com/Insanityandme/marketplace-frontend.git`
+1. `cd marketplace-frontend`
+2. `npm install`
+3. `npm run dev`
+4. Your server should now be running at http://localhost:3000 and should look something like this:
+
+![image](https://github.com/Insanityandme/blocket-clone/assets/1380257/db4d2f92-1072-47bb-a748-d5d6821db985)
 
 ---
 # Screenshots
