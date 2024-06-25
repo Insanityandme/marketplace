@@ -5,16 +5,15 @@
 [Install](#install) • [Animations](#animations) • [Screenshots](#screenshots)
 </div>
 
-# Frontend (Plocket)
 
 ### Table of Contents
 - [Introduction](#introduction)
-- [Preqrequisites](#prequisites)
 - [Installation](#install)
-	- [Back-end](#back-end)
-	- [Front-end](#front-end)
+	- [Backend](#backend)
+	- [Frontend](#frontend)
 - [Contact](#contact)
 
+# Introduction
 Plocket is a web application that allows users to buy and sell a wide range of products. The design of the application is heavily inspired by blocket.se (it’s similar to Facebook's marketplace but for Swedish users). The application is separated into two parts, a frontend and a backend.
 
 Here is a short demo of the application, it does not however show all features but most of them: https://youtu.be/csRdmTOqPbI
@@ -29,6 +28,8 @@ Features:
 - Buy products (without payment logic implemented)
 - Search for products using categories, price, condition, and name
 - See order history
+
+# Frontend
 
 ## Prequisities
 
