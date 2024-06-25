@@ -9,6 +9,7 @@
 
 ### Table of Contents
 - [Introduction](#introduction)
+- [Preqrequisites](#prequisites)
 - [Installation](#install)
 	- [Back-end](#back-end)
 	- [Front-end](#front-end)
