@@ -33,13 +33,13 @@ Features:
 
 ## Frontend
 
-## Prequisities
+### Prequisities
 
 NodeJS: [NodeJS](https://nodejs.org/en)
 
 Marketplace-backend: This will not be functional if you haven't done the instructions for the [backend](https://github.com/Insanityandme/marketplace-backend)
 
-## Installation
+### Installation
 
 0. `git clone https://github.com/Insanityandme/marketplace-frontend.git`
 1. `cd marketplace-frontend`
@@ -49,8 +49,7 @@ Marketplace-backend: This will not be functional if you haven't done the instruc
 
 ![image](https://github.com/Insanityandme/marketplace-frontend/assets/1380257/2db7ab0d-73af-412e-8076-05b77a93b782)
 
-
-# Backend 
+## Backend 
 
 Marketplace-backend is the backend of our application. It is a web application written in Java using the Spring Boot framework. The backend is a RESTful API which utilizes different HTTP methods for communication. Server sent events are also used, for sending messages from the backend to the frontend. 
 
@@ -58,7 +57,7 @@ This application acts as our web server where we have defined endpoints for our 
 PostgreSQL is used as the database and digitalocean.com to host content created by users. 
 Railway is used to host our database, which provides a containerized environment application.
 
-## Prerequisities 
+### Prerequisities 
 - Java 21+
 - PostgreSQL: [PostgreSQL](https://www.postgresql.org/)
 - .env with the following environment variables set:
@@ -73,7 +72,7 @@ Railway is used to host our database, which provides a containerized environment
     - NIXPACKS_JDK_VERSION=21
 - Docker for running tests (OPTIONAL): [Docker](https://www.docker.com/)
   
-## Installation (TERMINAL)
+### Installation (TERMINAL)
 0. ```git clone https://github.com/Insanityandme/marketplace-backend.git```
 1. ```cd marketplace-backend```
 
@@ -87,7 +86,7 @@ LINUX:
 
 It should look something like this: ![image](https://github.com/Insanityandme/marketplace-backend/assets/1380257/a8389660-41be-4928-ba69-f040fb17d574)
 
-## Installation (IntelliJ)
+### Installation (IntelliJ)
 0. ```git clone https://github.com/Insanityandme/marketplace-backend.git```
 1. Open the project in IntelliJ
 2. Let IntelliJ install all required dependencies
