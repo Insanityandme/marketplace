@@ -21,6 +21,8 @@ Features:
 
 # Frontend
 
+Marketplace-frontend is the frontend of our application. It is a web application written in NextJS. 
+
 ## Prequisities
 
 NodeJS: [NodeJS](https://nodejs.org/en)
