@@ -8,7 +8,7 @@
 
 ### Table of Contents
 - [Introduction](#introduction)
-- Installation
+- [Installation](#installation)
 	- [Backend](#backend)
 	- [Frontend](#frontend)
 - [Contact](#contact)
@@ -45,7 +45,7 @@ Marketplace-backend: This will not be functional if you haven't done the instruc
 3. `npm run dev`
 4. Your server should now be running at http://localhost:3000 and should look something like this:
 
-![image](https://github.com/Insanityandme/marketplace-frontend/assets/1380257/2db7ab0d-73af-412e-8076-05b77a93b782)
+![image](https://github.com/Insanityandme/blocket-clone/assets/1380257/db4d2f92-1072-47bb-a748-d5d6821db985)
 
 # Backend 
 
