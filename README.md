@@ -71,6 +71,7 @@ This is our frontend, a web application written in NextJS.
 ## Prequisities
 
 NodeJS: [NodeJS](https://nodejs.org/en)
+
 - (Optional .env variables):
     - NEXT_PUBLIC_BACKEND_URL=http://localhost:8080
     - NEXT_PUBLIC_BACKEND_API_VERSION=v1
