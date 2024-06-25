@@ -1,6 +1,6 @@
 <div align="center">
 	
-# Plocket - Blocket Clone
+# Plocket
 
 [Install](#install) • [Animations](#animations) • [Screenshots](#screenshots)
 </div>
