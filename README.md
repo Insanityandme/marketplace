@@ -2,7 +2,7 @@
 	
 # Plocket
 
-[Introduction](#introduction) • [Frontend](#frontend) •[Backend](#backend) • [Screenshots](#screenshots) • [Contact](#contact)
+[Introduction](#introduction) • [Frontend](#frontend) • [Backend](#backend) • [Screenshots](#screenshots) • [Contact](#contact)
 </div>
 
 # Introduction
