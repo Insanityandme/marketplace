@@ -8,6 +8,13 @@
 # Introduction
 Plocket is a web application that allows users to buy and sell a wide range of products. The design of the application is heavily inspired by blocket.se (it’s similar to Facebook's marketplace but for Swedish users). The application is separated into two parts, a frontend and a backend.
 
+=======
+# Marketplace-frontend (Plocket)
+
+Plocket is a web application that allows users to buy and sell a wide range of products. The design of the application is heavily inspired by blocket.se (it’s similar to Facebook's marketplace but for Swedish users). The application is separated into two parts, a frontend and a backend.
+
+Here is a short demo of the application, it does not however show all features but most of them: https://youtu.be/csRdmTOqPbI
+
 Features:
 
 - Login/Register an account
@@ -78,6 +85,8 @@ NodeJS: [NodeJS](https://nodejs.org/en)
     - NEXT_PUBLIC_MAX_FILE_UPLOAD_SIZE_BYTES=10000000
 
 Backend: This will not be functional if you haven't done the instructions for the [backend](#backend)
+=======
+Marketplace-backend: This will not be functional if you haven't done the instructions for the [backend](https://github.com/Insanityandme/marketplace-backend)
 
 ## Installation
 
@@ -96,3 +105,5 @@ Backend: This will not be functional if you haven't done the instructions for th
 # Contact
 You are welcome to contact me at bengtegardbook@gmail.com if you have any questions on how to setup this environment.
 There might be some mistakes in our installation guide and I apologize for that if that's the case.
+=======
+![image](https://github.com/Insanityandme/marketplace-frontend/assets/1380257/2db7ab0d-73af-412e-8076-05b77a93b782)
