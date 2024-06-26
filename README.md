@@ -8,12 +8,6 @@
 # Introduction
 Plocket is a web application that allows users to buy and sell a wide range of products. The design of the application is heavily inspired by blocket.se (it’s similar to Facebook's marketplace but for Swedish users). The application is separated into two parts, a frontend and a backend.
 
-# Marketplace-frontend (Plocket)
-
-Plocket is a web application that allows users to buy and sell a wide range of products. The design of the application is heavily inspired by blocket.se (it’s similar to Facebook's marketplace but for Swedish users). The application is separated into two parts, a frontend and a backend.
-
-Here is a short demo of the application, it does not however show all features but most of them: https://youtu.be/csRdmTOqPbI
-
 Features:
 
 - Login/Register an account
