@@ -72,6 +72,11 @@ This is our frontend, a web application written in NextJS.
 
 NodeJS: [NodeJS](https://nodejs.org/en)
 
+- (Optional .env variables):
+    - NEXT_PUBLIC_BACKEND_URL=http://localhost:8080
+    - NEXT_PUBLIC_BACKEND_API_VERSION=v1
+    - NEXT_PUBLIC_MAX_FILE_UPLOAD_SIZE_BYTES=10000000
+
 Backend: This will not be functional if you haven't done the instructions for the [backend](#backend)
 
 ## Installation
