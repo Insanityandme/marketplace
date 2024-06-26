@@ -36,3 +36,4 @@ jobs:
         arguments: build
       env:
         IMAGE_UPLOAD_DIRECTORY: ${{ secrets.IMAGE_UPLOAD_DIRECTORY }}
+        IMAGE_UPLOAD_DIRECTORY: ${{ secrets.IMAGE_UPLOAD_DIRECTORY }}
