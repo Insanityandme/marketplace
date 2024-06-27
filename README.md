@@ -43,8 +43,8 @@ Railway is used to host our database, which provides a containerized environment
 - Docker for running tests (OPTIONAL): [Docker](https://www.docker.com/)
   
 ## Installation (TERMINAL)
-0. ```git clone https://github.com/Insanityandme/marketplace-backend.git```
-1. ```cd marketplace-backend```
+0. ```git clone https://github.com/Insanityandme/marketplace.git```
+1. ```cd backend```
 
 WINDOWS:
 1. ```gradlew build -x test```
@@ -55,14 +55,6 @@ LINUX:
 2. ```./gradlew bootRun```
 
 It should look something like this: ![image](https://github.com/Insanityandme/marketplace-backend/assets/1380257/a8389660-41be-4928-ba69-f040fb17d574)
-
-## Installation (IntelliJ)
-0. ```git clone https://github.com/Insanityandme/marketplace-backend.git```
-1. Open the project in IntelliJ
-2. Let IntelliJ install all required dependencies
-3. Press the play button to run the application
-
-It should look something like this: ![image](https://github.com/Insanityandme/marketplace-backend/assets/1380257/5d74f24c-6d7e-444f-9090-50d189b0c7eb)
 
 # Frontend
 
@@ -82,8 +74,8 @@ Marketplace-backend: This will not be functional if you haven't done the instruc
 
 ## Installation
 
-0. `git clone https://github.com/Insanityandme/marketplace-frontend.git`
-1. `cd marketplace-frontend`
+0. `git clone https://github.com/Insanityandme/marketplace.git`
+1. `cd frontend`
 2. `npm install`
 3. `npm run dev`
 4. Your server should now be running at http://localhost:3000 and should look something like this:
