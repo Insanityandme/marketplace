@@ -1,6 +1,6 @@
 <div align="center">
 	
-# Plocket
+# Marketplace - a Blocket clone
 
 [Introduction](#introduction) • [Backend](#backend) • [Frontend](#frontend) • [Screenshots](#screenshots) • [Contact](#contact)
 </div>
