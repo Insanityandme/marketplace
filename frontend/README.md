@@ -19,7 +19,7 @@ Features:
 
 NodeJS: [NodeJS](https://nodejs.org/en)
 
-Marketplace-backend: This will not be functional if you haven't done the instructions for the [backend](https://github.com/Insanityandme/marketplace)
+Marketplace-backend: This will not be functional if you haven't done the instructions for the [backend](https://github.com/Insanityandme/marketplace/tree/main/backend)
 
 ## Installation
 
