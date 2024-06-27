@@ -1,18 +1,12 @@
 <div align="center">
 	
-# Plocket
+# Marketplace - a Blocket clone
 
 [Introduction](#introduction) • [Backend](#backend) • [Frontend](#frontend) • [Screenshots](#screenshots) • [Contact](#contact)
 </div>
 
 # Introduction
 Plocket is a web application that allows users to buy and sell a wide range of products. The design of the application is heavily inspired by blocket.se (it’s similar to Facebook's marketplace but for Swedish users). The application is separated into two parts, a frontend and a backend.
-
-# Marketplace-frontend (Plocket)
-
-Plocket is a web application that allows users to buy and sell a wide range of products. The design of the application is heavily inspired by blocket.se (it’s similar to Facebook's marketplace but for Swedish users). The application is separated into two parts, a frontend and a backend.
-
-Here is a short demo of the application, it does not however show all features but most of them: https://youtu.be/csRdmTOqPbI
 
 Features:
 
@@ -28,10 +22,6 @@ Features:
 # Backend 
 
 Our backend is a web application written in Java using the Spring Boot framework. The backend is a RESTful API which utilizes different HTTP methods for communication. Server sent events are also used, for sending messages from the backend to the frontend. 
-=======
-# marketplace-backend
-
-Marketplace-backend is the backend of our application. It is a web application written in Java using the Spring Boot framework. The backend is a RESTful API which utilizes different HTTP methods for communication. Server sent events are also used, for sending messages from the backend to the frontend. 
 
 This application acts as our web server where we have defined endpoints for our frontend to make use of. 
 PostgreSQL is used as the database and digitalocean.com to host content created by users. 
@@ -50,12 +40,11 @@ Railway is used to host our database, which provides a containerized environment
     - MAX_UPLOAD_SIZE_BYTES=10000000
     - SPRING_PROFILES_ACTIVE=production
     - NIXPACKS_JDK_VERSION=21
-=======
 - Docker for running tests (OPTIONAL): [Docker](https://www.docker.com/)
   
 ## Installation (TERMINAL)
-0. ```git clone https://github.com/Insanityandme/marketplace-backend.git```
-1. ```cd marketplace-backend```
+0. ```git clone https://github.com/Insanityandme/marketplace.git```
+1. ```cd backend```
 
 WINDOWS:
 1. ```gradlew build -x test```
@@ -67,15 +56,6 @@ LINUX:
 
 It should look something like this: ![image](https://github.com/Insanityandme/marketplace-backend/assets/1380257/a8389660-41be-4928-ba69-f040fb17d574)
 
-## Installation (IntelliJ)
-0. ```git clone https://github.com/Insanityandme/marketplace-backend.git```
-1. Open the project in IntelliJ
-2. Let IntelliJ install all required dependencies
-3. Press the play button to run the application
-
-It should look something like this: ![image](https://github.com/Insanityandme/marketplace-backend/assets/1380257/5d74f24c-6d7e-444f-9090-50d189b0c7eb)
-
-<<<<<<< HEAD
 # Frontend
 
 This is our frontend, a web application written in NextJS. 
@@ -90,13 +70,12 @@ NodeJS: [NodeJS](https://nodejs.org/en)
     - NEXT_PUBLIC_MAX_FILE_UPLOAD_SIZE_BYTES=10000000
 
 Backend: This will not be functional if you haven't done the instructions for the [backend](#backend)
-=======
 Marketplace-backend: This will not be functional if you haven't done the instructions for the [backend](https://github.com/Insanityandme/marketplace-backend)
 
 ## Installation
 
-0. `git clone https://github.com/Insanityandme/marketplace-frontend.git`
-1. `cd marketplace-frontend`
+0. `git clone https://github.com/Insanityandme/marketplace.git`
+1. `cd frontend`
 2. `npm install`
 3. `npm run dev`
 4. Your server should now be running at http://localhost:3000 and should look something like this:
@@ -110,6 +89,4 @@ Marketplace-backend: This will not be functional if you haven't done the instruc
 # Contact
 You are welcome to contact me at bengtegardbook@gmail.com if you have any questions on how to setup this environment.
 There might be some mistakes in our installation guide and I apologize for that if that's the case.
-=======
-![image](https://github.com/Insanityandme/marketplace-frontend/assets/1380257/2db7ab0d-73af-412e-8076-05b77a93b782)
-=======
+
