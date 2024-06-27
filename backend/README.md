@@ -34,13 +34,3 @@ LINUX:
 2. ```./gradlew bootRun```
 
 It should look something like this: ![image](https://github.com/Insanityandme/marketplace-backend/assets/1380257/a8389660-41be-4928-ba69-f040fb17d574)
-
-## Installation (IntelliJ)
-0. ```git clone https://github.com/Insanityandme/marketplace-backend.git```
-1. Open the project in IntelliJ
-2. Let IntelliJ install all required dependencies
-3. Press the play button to run the application
-
-It should look something like this: ![image](https://github.com/Insanityandme/marketplace-backend/assets/1380257/5d74f24c-6d7e-444f-9090-50d189b0c7eb)
-
-     
