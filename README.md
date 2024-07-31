@@ -102,6 +102,52 @@ Marketplace-backend: This will not be functional if you haven't done the instruc
 ---
 # Screenshots
 
+<div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img alt="Creating a product listing" src="https://github.com/user-attachments/assets/bd8b235e-892b-44ca-9fb1-9bd80bad846b">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Creating a product listing</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img alt="Watchlist page" src="https://github.com/user-attachments/assets/0d8db30e-17af-466b-816a-6ee73d0b5df8">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Watchlist page - subscribe to new posts in chosen categories</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img alt="Profile page" src="https://github.com/user-attachments/assets/48b5d3e9-853f-4fab-9530-a79942aeea49">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Profile page</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 # Contact
 You are welcome to contact me at bengtegardbook@gmail.com if you have any questions on how to setup this environment.
