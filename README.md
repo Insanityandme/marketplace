@@ -87,7 +87,6 @@ NodeJS: [NodeJS](https://nodejs.org/en)
     - NEXT_PUBLIC_MAX_FILE_UPLOAD_SIZE_BYTES=10000000
 
 Backend: This will not be functional if you haven't done the instructions for the [backend](#backend)
-Marketplace-backend: This will not be functional if you haven't done the instructions for the [backend](https://github.com/Insanityandme/marketplace-backend)
 
 ## Installation
 
