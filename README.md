@@ -95,9 +95,7 @@ Marketplace-backend: This will not be functional if you haven't done the instruc
 1. `cd frontend`
 2. `npm install`
 3. `npm run dev`
-4. Your server should now be running at http://localhost:3000 and should look something like this:
-
-![image](https://github.com/Insanityandme/blocket-clone/assets/1380257/db4d2f92-1072-47bb-a748-d5d6821db985)
+4. Your server should now be running at http://localhost:3000
 
 ---
 # Screenshots
