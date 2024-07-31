@@ -2,7 +2,7 @@
 	
 # Marketplace - a Blocket clone
 
-[Overview](#overview) • [Backend](#backend) • [Frontend](#frontend) • [Screenshots](#screenshots) • [Contact](#contact)
+[Overview](#overview) • [Setup](#setup) • [Screenshots](#screenshots)
 </div>
 
 <div align="center">
@@ -36,7 +36,8 @@ This is a web app that allows users to buy and sell products through product lis
 * Purchase history
 * UI for desktop & mobile
 
-# Backend 
+# Setup
+## Backend
 
 Our backend is a web application written in Java using the Spring Boot framework. The backend is a RESTful API which utilizes different HTTP methods for communication. Server sent events are also used, for sending messages from the backend to the frontend. 
 
@@ -44,7 +45,7 @@ This application acts as our web server where we have defined endpoints for our 
 PostgreSQL is used as the database and digitalocean.com to host content created by users. 
 Railway is used to host our database, which provides a containerized environment application.
 
-## Prerequisities 
+### Prerequisities 
 - Java 21+
 - PostgreSQL: [PostgreSQL](https://www.postgresql.org/)
 - .env with the following environment variables set:
@@ -59,7 +60,7 @@ Railway is used to host our database, which provides a containerized environment
     - NIXPACKS_JDK_VERSION=21
 - Docker for running tests (OPTIONAL): [Docker](https://www.docker.com/)
   
-## Installation (TERMINAL)
+### Installation (TERMINAL)
 0. ```git clone https://github.com/Insanityandme/marketplace.git```
 1. ```cd backend```
 
@@ -73,11 +74,11 @@ LINUX:
 
 It should look something like this: ![image](https://github.com/Insanityandme/marketplace-backend/assets/1380257/a8389660-41be-4928-ba69-f040fb17d574)
 
-# Frontend
+## Frontend
 
 This is our frontend, a web application written in NextJS. 
 
-## Prequisities
+### Prequisities
 
 NodeJS: [NodeJS](https://nodejs.org/en)
 
@@ -88,7 +89,7 @@ NodeJS: [NodeJS](https://nodejs.org/en)
 
 Backend: This will not be functional if you haven't done the instructions for the [backend](#backend)
 
-## Installation
+### Installation
 
 0. `git clone https://github.com/Insanityandme/marketplace.git`
 1. `cd frontend`
@@ -146,7 +147,4 @@ Backend: This will not be functional if you haven't done the instructions for th
 </div>
 
 ---
-# Contact
-You are welcome to contact me at bengtegardbook@gmail.com if you have any questions on how to setup this environment.
-There might be some mistakes in our installation guide and I apologize for that if that's the case.
 
