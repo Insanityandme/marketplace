@@ -2,7 +2,7 @@
 	
 # Marketplace - a Blocket clone
 
-[Introduction](#introduction) • [Backend](#backend) • [Frontend](#frontend) • [Screenshots](#screenshots) • [Contact](#contact)
+[Overview](#overview) • [Backend](#backend) • [Frontend](#frontend) • [Screenshots](#screenshots) • [Contact](#contact)
 </div>
 
 <div align="center">
@@ -26,19 +26,15 @@
   </table>
 </div>
 
-# Introduction
-Plocket is a web application that allows users to buy and sell a wide range of products. The design of the application is heavily inspired by blocket.se (it’s similar to Facebook's marketplace but for Swedish users). The application is separated into two parts, a frontend and a backend.
+## Overview
+This is a web app that allows users to buy and sell products through product listings. The design of the app is heavily inspired by Blocket (a Swedish website similar to Facebook marketplace). The application consists of a frontend made with the JavaScript framework Next.js and a backend made with the Java framework Spring Boot.
 
-Features:
-
-- Login/Register an account
-- Sell a product by creating a listing with information & images of a product you want to sell
-- Watch current ads the user has published
-- Subscribe to categories and get notified via your inbox when a new item in that category is posted
-- Add products to your cart
-- Buy products (without payment logic implemented)
-- Search for products using categories, price, condition, and name
-- See order history
+### Key features
+* Create product listings with image(s), description, price etc.
+* Search for product listings by various search criteria
+* Subscribe to new listings in chosen product categories
+* Purchase history
+* UI for desktop & mobile
 
 # Backend 
 
