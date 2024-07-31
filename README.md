@@ -5,6 +5,27 @@
 [Introduction](#introduction) • [Backend](#backend) • [Frontend](#frontend) • [Screenshots](#screenshots) • [Contact](#contact)
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img alt="Marketplace search page on desktop" src="https://github.com/user-attachments/assets/3f675dbf-32dc-43eb-92a5-fcd28e9af9d1">
+      </td>
+      <td>
+        <img alt="Marketplace search page on mobile" src="https://github.com/user-attachments/assets/baed83e8-6072-4a38-b135-52d301f0af57">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Search page on desktop</p>
+      </td>
+      <td>
+        <p>Search page on mobile</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 # Introduction
 Plocket is a web application that allows users to buy and sell a wide range of products. The design of the application is heavily inspired by blocket.se (it’s similar to Facebook's marketplace but for Swedish users). The application is separated into two parts, a frontend and a backend.
 
